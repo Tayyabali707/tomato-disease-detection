@@ -1,5 +1,6 @@
 # Tomato Plant Disease Detection System 🍅
 
+![App Demo Preview](https://github.com/Tayyabali707/tomato-disease-detection/blob/main/Screenshot%202026-08-06%20185112.png)
 An AI/ML-based computer vision pipeline designed to recognize and classify diseases in tomato plants from leaf images. This project addresses agricultural challenges using deep learning.
 
 ## 🌟 Key Features
